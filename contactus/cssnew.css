@@ -510,6 +510,10 @@ input[type=submit]{
 
 }
 
+.loginbtn{
+  margin-bottom: 10%;
+}
+
 @media (min-width: 1200px){
     :root{
     --heading-font: 3rem;
